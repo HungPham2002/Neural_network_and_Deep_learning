@@ -5,4 +5,4 @@
 - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and optimization ✔
 - Structring of Machine Learning projects ✔
 - Convolutional Neural Network ✔
-- Sequence Model ... in progress 
+- Sequence Model ✔
